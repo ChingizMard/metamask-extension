@@ -3625,13 +3625,6 @@
         "define": true
       }
     },
-    "nanoid": {
-      "globals": {
-        "crypto": true,
-        "msCrypto": true,
-        "navigator": true
-      }
-    },
     "no-case": {
       "packages": {
         "lower-case": true
@@ -3649,7 +3642,6 @@
         "document": true,
         "jQuery": true,
         "localStorage": true,
-        "location": true,
         "navigator": true,
         "postMessage": true,
         "removeEventListener": true,
